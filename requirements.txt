@@ -1,0 +1,7 @@
+termcolor (for colors)
+pyperclip (for copying password to clipboard)
+
+There will be no problem for copying in windows.
+But in Linux, you have to install these on your system-
+1) sudo apt-get install xsel to install the xsel utility.
+2) sudo apt-get install xclip to install the xclip utility.
